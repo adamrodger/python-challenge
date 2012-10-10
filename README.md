@@ -1,2 +1,1 @@
-python-challenge
-================
+Solutions for http://www.pythonchallenge.com/ developed while learning Python
